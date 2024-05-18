@@ -57,3 +57,14 @@ Dưới đây là bảng mức hỗ trợ cho quỹ khuyến học, dành cho c�
 **Lưu ý:**
 
 - Khoản thưởng đặc biệt này được tính dựa trên số lượng cháu tham gia thi vào năm đó.
+
+Dưới đây là bảng mới với 2 cột "Ngành học", "Ví dụ" và "Mức hỗ trợ":
+
+| Ngành học          | Ví dụ                                                                 | Mức hỗ trợ |
+|--------------------|----------------------------------------------------------------------|------------|
+| Cán bộ             | Cán bộ Đảng, cán bộ chính quyền địa phương                          | 2,000,000  |
+| Công chức          | Công chức làm việc trong các bộ, ngành, sở, ban, ngành ở cấp tỉnh, huyện | 2,000,000  |
+| Viên chức          | Giáo viên, bác sĩ, nhân viên y tế, nhân viên các trường đại học, cao đẳng, bệnh viện công lập | 2,000,000  |
+| Lực lượng vũ trang | Quân đội, cảnh sát, biên phòng, cảnh sát biển                        | 2,000,000  |
+
+
